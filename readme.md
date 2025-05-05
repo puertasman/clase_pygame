@@ -1,1 +1,1 @@
-#Página para los ejercicios de PyGame de 3ero de ESO
+# Página para los ejercicios de PyGame de 3ero de ESO
